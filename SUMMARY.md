@@ -1,0 +1,16 @@
+# Table of contents
+
+* [🌠 Welcome to IOIA](README.md)
+* [👔 The Team](the-team.md)
+* [🛣 RoadMap](roadmap.md)
+* [💰 The Hedge Fund](the-hedge-fund.md)
+* [🪙 $IOIA Cryptocurrency](usdioia-cryptocurrency.md)
+* [🌐 Community](community.md)
+* [🌌 The NFT](the-nft.md)
+* [✅ Utilities](utilities/README.md)
+  * [Passive Income](utilities/passive-income.md)
+  * [NFT Staking](utilities/nft-staking.md)
+  * [Education](utilities/education.md)
+  * [Released 3D Files](utilities/released-3d-files.md)
+  * [Networking](utilities/networking.md)
+  * [VC BANK (DAO)](utilities/vc-bank-dao.md)
