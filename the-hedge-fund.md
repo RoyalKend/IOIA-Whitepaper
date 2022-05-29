@@ -11,20 +11,19 @@ coverY: 0
 Pantera Capital is the first US institutional asset manager focused solely on blockchain assets and has been in the market since 2013. The company's portfolio is valued at $600 billion with an average rate of return (including all 8 hedge funds it manages) of 105% per year.\
 \
 \
-<mark style="color:blue;">**How much does an investor earn?**</mark>\
+<mark style="color:blue;"></mark><mark style="color:blue;">**How much does an investor earn?**</mark>\
 ****\
 ****A calculation has been made to estimate the profit at the end of the investment plan, taking into account the return of hedge funds over the last 8 years.
 
-&#x20;** **_**In the best-case scenario**_ a profit of $30 315 resulted, resulting in a passive income of $505/month;
+&#x20;<mark style="color:green;">****</mark><mark style="color:green;">** **</mark>_<mark style="color:green;">**In the best-case scenario**</mark>_ <mark style="color:green;"></mark><mark style="color:green;">a profit of $30 315 resulted, resulting in a passive income of $505/month;</mark>
 
-_**Under normal conditions**_ a profit of $14 805 resulted, resulting in a passive income of $248/month.
+_<mark style="color:orange;">**Under normal conditions**</mark>_ <mark style="color:orange;"></mark><mark style="color:orange;">a profit of $14 805 resulted, resulting in a passive income of $248/month.</mark>
 
 This profile is calculated with an initial investment of $700, this brings an ROI of 4300% respectively 2110%&#x20;
 
 The $700 investment will be returned to the NFT owner upon completion of the investment plan.
 
-&#x20;IO Investment Academy will not charge any fees when making the investment on behalf of the NFT holder \
-
+#### &#x20;IO Investment Academy will not charge any fees when making the investment on behalf of the NFT holder 
 
 IO Investment Academy acts as a third party between small investors and the hedge fund, so small investors can access the hedge fund even if they do not meet the investment conditions.
 

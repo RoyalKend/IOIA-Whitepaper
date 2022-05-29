@@ -10,7 +10,6 @@
 * [✅ Utilities](utilities/README.md)
   * [Passive Income](utilities/passive-income.md)
   * [NFT Staking](utilities/nft-staking.md)
-  * [Education](utilities/education.md)
   * [Released 3D Files](utilities/released-3d-files.md)
   * [Networking](utilities/networking.md)
   * [VC BANK (DAO)](utilities/vc-bank-dao.md)
