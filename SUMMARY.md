@@ -14,3 +14,6 @@
   * [Released 3D Files](utilities/released-3d-files.md)
   * [Networking](utilities/networking.md)
   * [VC BANK (DAO)](utilities/vc-bank-dao.md)
+* [📚 Education](education/README.md)
+  * [💎 What is an NFT?](education/what-is-an-nft.md)
+  * [📈 What is a Hedge Fund?](education/what-is-a-hedge-fund.md)
